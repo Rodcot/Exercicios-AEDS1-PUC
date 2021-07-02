@@ -11,7 +11,7 @@ e exercicios extras passados pelo professor Henrique Batista da Silva da univers
 ## About
 
 Programming exercises from the book Fundamentos da Programação de Computadores: Algoritmos, Pascal e C/C++  
-and others given by professor Henrique Batista da Silva from the PUC Minas university. 
+and given by professor Henrique Batista da Silva from the PUC Minas university. 
 
 * Each directory contains a pdf file that explains all exercises in PT_BR that are not from the book Fundamentos da Programação de Computadores: Algoritmos, Pascal e C/C++.
 
